@@ -13,6 +13,7 @@ import copy
     # This approach is not the most effecient one, can be enhanced with more work and time.
     # I added few additional not needed functions just for my own interest.
     # I'm aware of the assumption that x<=y<1000 but chosen to make it open
+    # All classes are in one file and that file is this.
 
 class Dimention():
 
