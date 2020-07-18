@@ -70,5 +70,8 @@ Enter N(Generations) : 15
 
 Result = 14
 
+
+
+
 for any questions please contact me on:
 m.alsayed2018@outlook.com
