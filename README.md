@@ -2,8 +2,9 @@
 Mentormate DevCamp Task1
 
 This is a python 3 code.
-To run, you simply run the .py file
-to manually run it, you will need to uncomment the last line of the code.
+To run, you simply run the .py file.
+
+To manually run it, you will need to uncomment the last line of the code.
 
 sample run:
 output:
