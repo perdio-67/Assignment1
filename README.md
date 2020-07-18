@@ -6,7 +6,7 @@ To run, you simply run the .py file.
 
 To manually run it, you will need to uncomment the last line of the code.
 
-# Automated sample run:
+## Automated sample run:
 output:
 
 [[0 0 0]
@@ -27,7 +27,7 @@ Example1 result = 5
  
 Example2 result = 14
 
-# Manual sample run:
+## Manual sample run:
 
 **Setting up Dimesnions**
 
